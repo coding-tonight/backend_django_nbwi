@@ -1,3 +1,4 @@
+from datetime import datetime
 import logging
 from django.http import Http404
 from rest_framework.views import APIView
@@ -7,13 +8,16 @@ from group.models import Group
 from group.serializer import GroupSerializer
 
 # Create your views here.
+
+# global variable
+model = Group
+
+
 class GroupView(APIView):
     """ group views private variable
 
     List all group, or create a new group.
     """
-    model = Group
-
     try:
         data = model.objects.raw("select * from salegroup")
     except:
@@ -26,6 +30,9 @@ class GroupView(APIView):
 
     def post(self, request, format=None):
         if request.method == 'POST':
+            # data = {}
+            # data['created_at'] = datetime.now()
+            # data['created_by'] = request.user
             serializer = GroupSerializer(data=request.data)
             if serializer.is_valid():
                 serializer.save()
@@ -37,12 +44,11 @@ class GroupDetail(APIView):
 
      Retrieve, update or delete a group instance.
     """
-    model = Group
 
     def get_objects(self, pk):
         try:
-            return self.model.objects.get(pk=pk)
-        except self.model.DoesNotExist as exe:
+            return model.objects.get(pk=pk)
+        except model.DoesNotExist as exe:
             logging.error(exe)
             raise Http404
 

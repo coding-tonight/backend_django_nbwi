@@ -44,7 +44,8 @@ INSTALLED_APPS = [
     'app.apps.AppConfig',
     'group.apps.GroupConfig',
     'factory.apps.FactoryConfig',
-    'user.apps.UserConfig'
+    'user.apps.UserConfig',
+    'item.apps.ItemConfig'
 ]
 
 MIDDLEWARE = [
@@ -159,8 +160,6 @@ REST_FRAMEWORK = {
     ),
     'DEFAULT_PERMISSION_CLASSES': (
         'rest_framework.permissions.IsAuthenticated', ),
-    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
-    'PAGE_SIZE': 10
 }
 
 

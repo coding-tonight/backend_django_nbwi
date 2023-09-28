@@ -4437,3 +4437,952 @@ django.core.exceptions.FieldError: Cannot resolve keyword 'user' into field. Cho
 2023-09-27 19:15:49,614 INFO "POST /login/ HTTP/1.1" 200 198 212 
 2023-09-27 19:18:04,243 INFO E:\projects\work\nbwi\core\core\settings.py changed, reloading. 266 
 2023-09-27 19:18:07,364 INFO Watching for file changes with StatReloader 668 
+2023-09-27 21:32:12,694 INFO Watching for file changes with StatReloader 668 
+2023-09-27 21:32:46,224 INFO "OPTIONS /login/ HTTP/1.1" 200 0 212 
+2023-09-27 21:32:49,923 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-27 21:35:30,258 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-27 21:40:26,711 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-28 07:29:25,694 INFO Watching for file changes with StatReloader 668 
+2023-09-28 07:32:24,554 WARNING Not Found: / 241 
+2023-09-28 07:32:24,555 WARNING "GET / HTTP/1.1" 404 3190 212 
+2023-09-28 07:32:25,611 WARNING Not Found: /favicon.ico 241 
+2023-09-28 07:32:25,612 WARNING "GET /favicon.ico HTTP/1.1" 404 3241 212 
+2023-09-28 07:32:32,176 WARNING Unauthorized: /group/ 241 
+2023-09-28 07:32:32,177 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 07:32:32,345 INFO "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,371 INFO "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,372 INFO "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,374 INFO "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,375 INFO "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,375 INFO "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,376 INFO "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,383 INFO "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,394 INFO "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,395 INFO "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0 212 
+2023-09-28 07:32:32,410 INFO "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0 212 
+2023-09-28 07:35:42,598 WARNING Not Found: / 241 
+2023-09-28 07:35:42,599 WARNING "GET / HTTP/1.1" 404 3190 212 
+2023-09-28 09:13:06,660 INFO Watching for file changes with StatReloader 668 
+2023-09-28 09:13:58,591 WARNING Not Found: / 241 
+2023-09-28 09:13:58,592 WARNING "GET / HTTP/1.1" 404 3190 212 
+2023-09-28 09:13:59,518 WARNING Not Found: /favicon.ico 241 
+2023-09-28 09:13:59,519 WARNING "GET /favicon.ico HTTP/1.1" 404 3241 212 
+2023-09-28 09:33:12,087 INFO E:\projects\work\nbwi\core\core\settings.py changed, reloading. 266 
+2023-09-28 09:33:18,549 INFO Watching for file changes with StatReloader 668 
+2023-09-28 09:34:03,674 INFO E:\projects\work\nbwi\core\item\models.py changed, reloading. 266 
+2023-09-28 09:34:07,742 INFO Watching for file changes with StatReloader 668 
+2023-09-28 09:43:31,273 INFO E:\projects\work\nbwi\core\item\models.py changed, reloading. 266 
+2023-09-28 09:43:41,021 INFO Watching for file changes with StatReloader 668 
+2023-09-28 10:17:13,309 INFO E:\projects\work\nbwi\core\core\urls.py changed, reloading. 266 
+2023-09-28 10:17:16,626 INFO Watching for file changes with StatReloader 668 
+2023-09-28 10:17:40,393 INFO E:\projects\work\nbwi\core\item\views.py changed, reloading. 266 
+2023-09-28 10:17:41,844 INFO Watching for file changes with StatReloader 668 
+2023-09-28 10:17:56,654 INFO E:\projects\work\nbwi\core\item\views.py changed, reloading. 266 
+2023-09-28 10:17:58,107 INFO Watching for file changes with StatReloader 668 
+2023-09-28 10:17:58,839 WARNING Not Found: / 241 
+2023-09-28 10:17:58,840 WARNING "GET / HTTP/1.1" 404 3510 212 
+2023-09-28 10:18:03,817 WARNING Not Found: /item 241 
+2023-09-28 10:18:03,818 WARNING "GET /item HTTP/1.1" 404 3540 212 
+2023-09-28 10:18:08,714 WARNING Not Found: /item/ 241 
+2023-09-28 10:18:08,714 WARNING "GET /item/ HTTP/1.1" 404 3543 212 
+2023-09-28 10:18:19,438 INFO E:\projects\work\nbwi\core\item\urls.py changed, reloading. 266 
+2023-09-28 10:18:21,303 INFO Watching for file changes with StatReloader 668 
+2023-09-28 10:18:22,465 WARNING Unauthorized: /item/ 241 
+2023-09-28 10:18:22,465 WARNING "GET /item/ HTTP/1.1" 401 5006 212 
+2023-09-28 10:41:02,902 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:41:02,904 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 10:41:11,668 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181 212 
+2023-09-28 10:41:11,914 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 212 
+2023-09-28 10:41:11,982 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 212 
+2023-09-28 10:41:11,984 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 212 
+2023-09-28 10:41:11,985 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 212 
+2023-09-28 10:41:11,986 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 212 
+2023-09-28 10:41:11,987 INFO "GET /static/admin/css/login.css HTTP/1.1" 304 0 212 
+2023-09-28 10:41:11,987 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 212 
+2023-09-28 10:41:22,651 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 212 
+2023-09-28 10:41:22,747 INFO "GET /admin/ HTTP/1.1" 200 8200 212 
+2023-09-28 10:41:22,873 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0 212 
+2023-09-28 10:41:22,902 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0 212 
+2023-09-28 10:41:22,905 INFO "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0 212 
+2023-09-28 10:41:22,908 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 212 
+2023-09-28 10:41:27,548 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:41:27,549 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 10:41:31,976 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:41:31,978 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 10:41:40,453 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:41:40,454 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 10:41:41,848 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:41:41,849 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 10:41:52,400 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:41:52,400 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 10:42:08,230 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:42:08,230 WARNING "GET /group/?format=json HTTP/1.1" 401 58 212 
+2023-09-28 10:54:02,675 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:54:02,676 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 10:54:16,189 WARNING Not Found: /group/admin 241 
+2023-09-28 10:54:16,190 WARNING "GET /group/admin HTTP/1.1" 404 3560 212 
+2023-09-28 10:54:21,900 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0 212 
+2023-09-28 10:54:21,951 INFO "GET /admin/ HTTP/1.1" 200 8200 212 
+2023-09-28 10:54:24,116 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 8441 212 
+2023-09-28 10:54:24,294 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,294 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,298 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,299 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,301 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,334 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,363 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,381 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,402 INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,415 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,476 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0 212 
+2023-09-28 10:54:24,476 INFO "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0 212 
+2023-09-28 10:54:27,298 INFO "GET /admin/authtoken/tokenproxy/1/change/ HTTP/1.1" 200 8759 212 
+2023-09-28 10:54:27,448 INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0 212 
+2023-09-28 10:54:27,449 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:27,472 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0 212 
+2023-09-28 10:54:27,472 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0 212 
+2023-09-28 10:54:27,483 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-09-28 10:54:27,590 INFO "GET /static/admin/img/search.svg HTTP/1.1" 304 0 212 
+2023-09-28 10:54:51,591 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:54:51,592 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 10:55:15,531 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:55:15,532 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 10:57:25,933 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:57:25,934 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 10:57:29,105 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:57:29,106 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 10:57:37,711 INFO "GET /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 200 7552 212 
+2023-09-28 10:57:37,995 INFO "GET /static/admin/js/cancel.js HTTP/1.1" 304 0 212 
+2023-09-28 10:57:39,777 INFO "POST /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 302 0 212 
+2023-09-28 10:57:39,824 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 7634 212 
+2023-09-28 10:57:40,017 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0 212 
+2023-09-28 10:58:05,190 WARNING Method Not Allowed: /login/ 241 
+2023-09-28 10:58:05,190 WARNING "GET /login/ HTTP/1.1" 405 40 212 
+2023-09-28 10:58:11,052 WARNING Bad Request: /login/ 241 
+2023-09-28 10:58:11,053 WARNING "POST /login/ HTTP/1.1" 400 0 212 
+2023-09-28 10:58:21,813 WARNING Bad Request: /login/ 241 
+2023-09-28 10:58:21,813 WARNING "POST /login/ HTTP/1.1" 400 0 212 
+2023-09-28 10:59:00,250 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-28 10:59:15,959 WARNING Bad Request: /login/ 241 
+2023-09-28 10:59:15,960 WARNING "POST /login/ HTTP/1.1" 400 0 212 
+2023-09-28 10:59:23,186 ERROR Internal Server Error: /group 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/group/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2023-09-28 10:59:23,189 ERROR "POST /group HTTP/1.1" 500 74929 212 
+2023-09-28 10:59:28,537 INFO "GET /group HTTP/1.1" 301 0 212 
+2023-09-28 10:59:28,548 WARNING Unauthorized: /group/ 241 
+2023-09-28 10:59:28,548 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 11:03:20,850 INFO "GET /group HTTP/1.1" 301 0 212 
+2023-09-28 11:03:20,890 WARNING Unauthorized: /group/ 241 
+2023-09-28 11:03:20,893 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 11:03:43,872 INFO "GET /group HTTP/1.1" 301 0 212 
+2023-09-28 11:03:43,881 WARNING Unauthorized: /group/ 241 
+2023-09-28 11:03:43,882 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 11:03:48,624 WARNING Unauthorized: /group/ 241 
+2023-09-28 11:03:48,624 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 11:04:07,129 INFO "GET /group/ HTTP/1.1" 200 125 212 
+2023-09-28 11:17:37,836 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 11:17:37,846 WARNING Unauthorized: /group/ 241 
+2023-09-28 11:17:37,846 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 11:58:49,629 INFO "OPTIONS /login/ HTTP/1.1" 200 0 212 
+2023-09-28 11:58:51,070 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-28 11:59:16,125 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 11:59:16,137 WARNING Unauthorized: /group/ 241 
+2023-09-28 11:59:16,137 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:01:08,144 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:01:08,144 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:03:25,372 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:03:25,373 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:05:15,390 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:05:15,391 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:09:55,070 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:09:55,071 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:11:00,347 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:11:00,348 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:11:17,685 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:11:17,688 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:12:50,855 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 12:13:29,278 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 12:13:29,284 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:13:29,285 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:13:56,438 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:13:56,438 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:15:16,348 INFO "GET /group/ HTTP/1.1" 200 125 212 
+2023-09-28 12:17:18,655 INFO "GET /group/ HTTP/1.1" 200 125 212 
+2023-09-28 12:17:25,481 INFO "POST /group/ HTTP/1.1" 201 108 212 
+2023-09-28 12:32:18,536 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:32:18,537 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 12:39:05,688 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:39:05,689 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:41:57,767 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:41:57,768 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:42:26,386 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:42:26,386 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:44:05,065 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:44:05,065 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:44:14,721 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:44:14,721 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:45:06,662 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:45:06,663 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:45:57,275 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:45:57,275 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:46:21,303 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 8440 212 
+2023-09-28 12:46:23,462 INFO "GET /admin/authtoken/tokenproxy/1/change/ HTTP/1.1" 200 8759 212 
+2023-09-28 12:46:23,613 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-09-28 12:46:25,180 INFO "GET /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 200 7552 212 
+2023-09-28 12:46:27,237 INFO "POST /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 302 0 212 
+2023-09-28 12:46:27,274 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 7634 212 
+2023-09-28 12:46:47,772 INFO - Broken pipe from ('127.0.0.1', 56854) 81 
+2023-09-28 12:46:47,882 INFO - Broken pipe from ('127.0.0.1', 56856) 81 
+2023-09-28 12:46:52,984 INFO - Broken pipe from ('127.0.0.1', 56867) 81 
+2023-09-28 12:47:01,951 INFO - Broken pipe from ('127.0.0.1', 56876) 81 
+2023-09-28 12:47:09,737 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-28 12:47:21,543 WARNING Unauthorized: /group/ 241 
+2023-09-28 12:47:21,544 WARNING "POST /group/ HTTP/1.1" 401 27 212 
+2023-09-28 12:49:57,708 INFO "POST /group/ HTTP/1.1" 201 102 212 
+2023-09-28 12:51:01,997 INFO "POST /group/ HTTP/1.1" 201 102 212 
+2023-09-28 12:52:07,917 INFO "POST /group/ HTTP/1.1" 201 102 212 
+2023-09-28 12:52:18,977 INFO "POST /group/ HTTP/1.1" 201 102 212 
+2023-09-28 12:59:40,222 INFO "POST /group/ HTTP/1.1" 201 104 212 
+2023-09-28 13:01:22,735 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:01:22,736 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:01:58,296 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:01:58,297 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:03:01,598 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:03:01,600 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:05:00,938 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:05:00,940 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:05:21,081 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 8440 212 
+2023-09-28 13:05:43,928 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:05:43,929 WARNING "GET /group/ HTTP/1.1" 401 27 212 
+2023-09-28 13:05:48,634 INFO "GET /admin/authtoken/tokenproxy/1/change/ HTTP/1.1" 200 8759 212 
+2023-09-28 13:05:48,796 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-09-28 13:06:01,558 INFO "GET /group/ HTTP/1.1" 200 125 212 
+2023-09-28 13:06:07,722 INFO "GET /group/ HTTP/1.1" 200 125 212 
+2023-09-28 13:06:58,433 INFO "GET /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 200 7552 212 
+2023-09-28 13:06:59,929 INFO "POST /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 302 0 212 
+2023-09-28 13:07:00,254 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 7634 212 
+2023-09-28 13:07:01,737 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 7446 212 
+2023-09-28 13:07:16,018 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-28 13:07:33,002 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:07:33,003 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:08:12,686 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:08:12,686 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:08:21,546 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:08:21,547 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:10:12,732 WARNING Unauthorized: /group/2/ 241 
+2023-09-28 13:10:12,732 WARNING "GET /group/2/ HTTP/1.1" 401 27 212 
+2023-09-28 13:10:23,059 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 8440 212 
+2023-09-28 13:10:24,454 INFO "GET /admin/authtoken/tokenproxy/1/change/ HTTP/1.1" 200 8759 212 
+2023-09-28 13:10:24,602 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-09-28 13:10:32,491 WARNING Unauthorized: /group/2/ 241 
+2023-09-28 13:10:32,491 WARNING "GET /group/2/ HTTP/1.1" 401 27 212 
+2023-09-28 13:10:37,592 INFO "GET /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 200 7552 212 
+2023-09-28 13:10:39,512 INFO "POST /admin/authtoken/tokenproxy/1/delete/ HTTP/1.1" 302 0 212 
+2023-09-28 13:10:39,545 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 7634 212 
+2023-09-28 13:10:41,667 INFO "POST /admin/logout/ HTTP/1.1" 200 3576 212 
+2023-09-28 13:11:51,105 INFO - Broken pipe from ('127.0.0.1', 57500) 81 
+2023-09-28 13:11:57,179 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-28 13:12:07,923 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:12:07,923 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:13:10,080 INFO "GET /admin/ HTTP/1.1" 302 0 212 
+2023-09-28 13:13:10,112 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181 212 
+2023-09-28 13:13:22,089 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4342 212 
+2023-09-28 13:13:32,062 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 212 
+2023-09-28 13:13:32,106 INFO "GET /admin/ HTTP/1.1" 200 9025 212 
+2023-09-28 13:13:36,551 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 8440 212 
+2023-09-28 13:16:11,387 WARNING Unauthorized: /group/ 241 
+2023-09-28 13:16:11,388 WARNING "POST /group/ HTTP/1.1" 401 58 212 
+2023-09-28 13:16:42,830 INFO "GET /group/2/ HTTP/1.1" 200 108 212 
+2023-09-28 13:17:40,983 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:17:40,997 ERROR "POST /group/ HTTP/1.1" 500 84777 212 
+2023-09-28 13:17:56,686 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:17:56,689 ERROR "POST /group/ HTTP/1.1" 500 84777 212 
+2023-09-28 13:18:21,701 INFO "POST /group/ HTTP/1.1" 201 102 212 
+2023-09-28 13:20:30,814 INFO "POST /group/ HTTP/1.1" 201 114 212 
+2023-09-28 13:21:11,754 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:21:11,757 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:21:40,421 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:21:40,424 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:21:49,296 INFO "POST /group/ HTTP/1.1" 201 103 212 
+2023-09-28 13:22:51,654 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:22:51,664 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:23:12,192 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:23:12,193 ERROR "POST /group/ HTTP/1.1" 500 84778 212 
+2023-09-28 13:23:45,857 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:23:45,861 ERROR "POST /group/ HTTP/1.1" 500 84778 212 
+2023-09-28 13:25:39,544 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:25:39,547 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:28:25,173 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:28:25,174 ERROR "POST /group/ HTTP/1.1" 500 84778 212 
+2023-09-28 13:29:33,564 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:29:33,569 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:30:05,139 INFO "POST /group/ HTTP/1.1" 201 103 212 
+2023-09-28 13:34:10,033 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:34:10,038 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:34:26,913 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:34:26,918 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:34:33,103 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:34:33,106 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:34:41,931 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:34:41,933 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:34:46,056 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:34:46,060 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:35:18,484 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:35:18,486 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:35:25,160 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:35:25,162 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:35:28,134 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 13:35:28,135 ERROR "POST /group/ HTTP/1.1" 500 85274 212 
+2023-09-28 13:36:55,617 INFO "GET /group/ HTTP/1.1" 200 125 212 
+2023-09-28 13:37:53,750 INFO E:\projects\work\nbwi\core\core\settings.py changed, reloading. 266 
+2023-09-28 13:38:03,673 INFO Watching for file changes with StatReloader 668 
+2023-09-28 13:38:13,675 INFO "GET /group/ HTTP/1.1" 200 1177 212 
+2023-09-28 13:39:11,617 INFO - Broken pipe from ('127.0.0.1', 59618) 81 
+2023-09-28 13:39:16,443 INFO - Broken pipe from ('127.0.0.1', 59620) 81 
+2023-09-28 13:39:25,483 INFO - Broken pipe from ('127.0.0.1', 59632) 81 
+2023-09-28 13:39:34,710 INFO - Broken pipe from ('127.0.0.1', 59656) 81 
+2023-09-28 13:39:56,432 INFO - Broken pipe from ('127.0.0.1', 59673) 81 
+2023-09-28 13:40:05,205 INFO - Broken pipe from ('127.0.0.1', 59694) 81 
+2023-09-28 13:40:13,114 INFO - Broken pipe from ('127.0.0.1', 59703) 81 
+2023-09-28 13:43:32,918 INFO - Broken pipe from ('127.0.0.1', 60071) 81 
+2023-09-28 13:44:06,842 INFO - Broken pipe from ('127.0.0.1', 60123) 81 
+2023-09-28 13:44:22,524 INFO - Broken pipe from ('127.0.0.1', 60150) 81 
+2023-09-28 13:45:54,005 INFO - Broken pipe from ('127.0.0.1', 60331) 81 
+2023-09-28 13:46:20,468 INFO "POST /login/ HTTP/1.1" 200 198 212 
+2023-09-28 13:46:44,056 INFO "POST /group/ HTTP/1.1" 201 115 212 
+2023-09-28 13:58:59,986 INFO E:\projects\work\nbwi\core\group\views.py changed, reloading. 266 
+2023-09-28 13:59:06,686 INFO Watching for file changes with StatReloader 668 
+2023-09-28 13:59:16,076 INFO E:\projects\work\nbwi\core\group\views.py changed, reloading. 266 
+2023-09-28 13:59:21,634 INFO Watching for file changes with StatReloader 668 
+2023-09-28 13:59:24,170 INFO "POST /group/ HTTP/1.1" 201 101 212 
+2023-09-28 14:04:59,869 INFO E:\projects\work\nbwi\core\group\views.py changed, reloading. 266 
+2023-09-28 14:05:02,429 INFO Watching for file changes with StatReloader 668 
+2023-09-28 14:05:04,678 ERROR Internal Server Error: /group/ 241 
+Traceback (most recent call last):
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\projects\work\nbwi\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-09-28 14:05:04,682 ERROR "POST /group/ HTTP/1.1" 500 85147 212 
+2023-09-28 14:05:41,724 INFO E:\projects\work\nbwi\core\group\views.py changed, reloading. 266 
+2023-09-28 14:05:43,092 INFO Watching for file changes with StatReloader 668 
+2023-09-28 15:43:25,973 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:43:25,988 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 15:43:26,004 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:43:26,005 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 15:43:34,662 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:43:34,663 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 15:43:39,566 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:43:39,566 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 15:43:39,615 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:43:39,616 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 15:43:54,358 INFO "GET /admin/authtoken/tokenproxy/ HTTP/1.1" 200 8440 212 
+2023-09-28 15:43:54,637 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,663 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,664 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,670 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,672 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,680 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,680 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,686 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,688 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,797 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,860 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,861 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,864 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:54,881 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:55,044 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:55,045 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 212 
+2023-09-28 15:43:55,045 INFO "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0 212 
+2023-09-28 15:43:55,045 INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0 212 
+2023-09-28 15:43:55,046 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0 212 
+2023-09-28 15:43:55,942 WARNING Not Found: /favicon.ico 241 
+2023-09-28 15:43:55,942 WARNING "GET /favicon.ico HTTP/1.1" 404 3560 212 
+2023-09-28 15:44:28,506 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:44:28,506 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 15:44:55,012 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:44:55,012 WARNING "GET /group/ HTTP/1.1" 401 58 212 
+2023-09-28 15:44:55,400 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 15:44:55,469 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:48:04,099 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:48:04,153 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:48:35,299 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:48:35,788 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:49:44,866 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:50:38,838 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:51:48,597 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:51:57,244 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:51:57,386 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:52:59,146 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:53:04,502 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:53:04,695 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:53:55,330 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:53:59,962 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:54:00,541 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:54:29,582 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:54:29,818 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:54:46,155 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:54:52,736 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:54:52,945 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:56:50,027 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:56:50,233 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:57:02,342 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:57:09,895 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:57:10,126 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 15:57:35,174 WARNING Unauthorized: /group/ 241 
+2023-09-28 15:57:35,175 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 15:57:36,134 INFO "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457 212 
+2023-09-28 15:57:36,189 INFO "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817 212 
+2023-09-28 15:57:36,258 INFO "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719 212 
+2023-09-28 15:57:36,278 INFO "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385 212 
+2023-09-28 15:57:36,350 INFO "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268 212 
+2023-09-28 15:57:36,352 INFO "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680 212 
+2023-09-28 15:57:36,387 INFO "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632 212 
+2023-09-28 15:57:36,471 INFO "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597 212 
+2023-09-28 15:57:36,473 INFO "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152 212 
+2023-09-28 15:57:36,520 INFO "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458 212 
+2023-09-28 15:57:36,703 INFO "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476 212 
+2023-09-28 15:57:37,235 WARNING Not Found: /favicon.ico 241 
+2023-09-28 15:57:37,235 WARNING "GET /favicon.ico HTTP/1.1" 404 3560 212 
+2023-09-28 16:00:10,578 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:00:10,914 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:00:11,035 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:00:15,050 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:00:15,344 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:02:13,573 WARNING Unauthorized: /group/ 241 
+2023-09-28 16:02:13,577 WARNING "GET /group/ HTTP/1.1" 401 5017 212 
+2023-09-28 16:04:00,358 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:04:00,679 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:04:43,778 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:04:43,838 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:08:31,224 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:08:31,244 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:15:50,936 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:15:51,120 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:16:03,882 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:16:03,911 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:22:25,783 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:22:50,774 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:22:51,532 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:23:22,393 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:23:22,428 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:24:41,480 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:24:42,008 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:25:04,780 INFO - Broken pipe from ('127.0.0.1', 51293) 81 
+2023-09-28 16:26:21,342 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:26:21,372 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:27:27,303 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:27:27,476 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:29:21,621 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:29:22,341 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:31:14,227 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:31:14,570 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:31:26,506 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:37:54,332 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:37:54,369 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:38:29,791 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:38:30,245 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:39:00,888 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:39:06,576 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:39:06,602 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:39:29,976 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:39:35,173 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:39:35,196 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:40:39,219 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:40:52,535 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:40:58,337 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:41:02,999 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:41:07,052 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:41:07,074 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:41:54,056 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:42:41,188 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:42:44,042 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:42:44,061 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:42:51,283 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:43:28,235 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:43:30,926 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:43:30,943 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:44:15,001 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:44:17,937 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:44:17,956 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:46:04,154 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:46:04,434 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:46:08,100 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:46:08,151 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:46:53,175 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:47:11,551 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:47:14,383 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:47:14,401 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:51:18,323 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:51:18,476 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:51:23,691 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:51:23,730 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:51:46,280 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:51:48,784 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:51:48,807 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:52:11,904 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:52:14,988 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:52:15,014 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:52:24,716 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:52:24,737 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:53:23,056 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:54:37,275 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:57:20,234 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:57:24,444 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:57:27,176 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:57:27,195 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:58:05,543 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:58:09,959 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:58:13,810 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:58:13,826 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 16:58:43,574 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:04:40,602 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:04:54,051 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:04:54,127 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:11:57,522 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:11:57,955 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:12:28,446 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:12:28,666 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:15:12,550 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:16:33,835 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:16:48,454 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:16:48,483 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:17:07,679 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:17:26,687 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:18:34,348 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:18:34,528 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:18:36,449 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:18:36,463 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:18:53,396 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:18:53,593 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:45:35,212 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 17:45:35,221 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 17:45:35,605 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:45:35,788 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:48:40,218 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:48:40,242 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:55:03,088 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:55:03,108 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:55:51,651 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 17:55:51,676 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:01:16,870 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:01:16,893 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:01:21,355 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:01:21,374 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:01:29,716 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:01:29,736 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:03:53,105 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:03:53,123 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:04:54,785 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:04:54,811 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:08:58,970 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:08:58,989 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:59:42,254 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 18:59:42,332 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:00:18,236 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:02:02,381 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:02:02,523 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:03:23,624 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:03:23,822 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:07:16,924 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:07:16,946 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:13:06,459 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:13:06,476 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:14:46,589 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:15:17,944 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:15:26,920 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:15:26,994 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:15:50,132 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:16:54,879 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:17:24,187 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:17:37,915 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:20:05,046 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:20:13,930 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:20:14,194 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:21:19,205 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:21:57,410 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:22:57,288 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:24:18,936 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:24:18,960 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:26:10,679 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:41:39,505 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:42:07,560 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:42:07,610 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:44:41,251 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:44:41,298 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:45:39,402 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 19:45:39,419 INFO "OPTIONS /group/ HTTP/1.1" 200 0 212 
+2023-09-28 19:45:39,449 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:45:39,480 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:50:28,564 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:50:38,167 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:51:37,245 INFO "GET /group/ HTTP/1.1" 200 1395 212 
+2023-09-28 19:51:57,603 INFO "GET /group/ HTTP/1.1" 200 1395 212 
