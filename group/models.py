@@ -8,7 +8,7 @@ class Group(Base):
     group_name = models.CharField(null=False, blank=False, max_length=45)
 
     def __str__(self):
-        return self.group_name
+        return self.id
 
     class Meta:
         db_table = 'salegroup'

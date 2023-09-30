@@ -6,11 +6,7 @@ from rest_framework.response import Response
 from rest_framework.authtoken.models import Token
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import AllowAny
-from rest_framework.status import (
-    HTTP_200_OK,
-    HTTP_404_NOT_FOUND,
-    HTTP_400_BAD_REQUEST
-)
+from rest_framework import status
 
 
 # Create your views here.
@@ -24,12 +20,12 @@ def login(request):
 
     # check if username and password not not
     if username is None and password is None:
-        return Response(status=HTTP_400_BAD_REQUEST)
+        return Response(status=status.HTTP_400_BAD_REQUEST)
 
     user = authenticate(username=username, password=password)
 
     if not user:
-        return Response(HTTP_404_NOT_FOUND)
+        return Response(status=status.HTTP_401_UNAUTHORIZED)
 
     token, created = Token.objects.get_or_create(user=user)
     user_detail = User.objects.get(pk=user.pk)
@@ -42,4 +38,4 @@ def login(request):
         'is_active': user_detail.is_active,
         'is_admin': user_detail.is_superuser,
         'join_date': user_detail.date_joined
-    }, status=HTTP_200_OK)
+    }, status=status.HTTP_200_OK)
